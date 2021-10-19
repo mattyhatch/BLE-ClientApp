@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BLE-ClientApp</string>
+    <string name="button_id">scan_button</string>
+</resources>
